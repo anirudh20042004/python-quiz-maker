@@ -3,4 +3,4 @@ This is a quiz maker project where everyone can make quizes and can also partici
 ## Languages used:
 . Python   
 
-.MySQL Database
+. MySQL Database
