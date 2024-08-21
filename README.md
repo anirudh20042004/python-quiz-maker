@@ -1,4 +1,4 @@
-# PROJECT:
+# PROJECT IDEA :
 This project is a **Quiz Maker and Quiz Game** using Python and MySQL. It allows users to create quizzes and participate in them. The application features two main functionalities:
 ## 1. Quiz Creation:
 Users can create quizzes by specifying the quiz name and the number of questions.For each question, users can input the question itself, along with four possible options (A, B, C, and D), and the correct answer.The quiz data is stored in a MySQL database, with each quiz having its own table containing the questions and answer options.
