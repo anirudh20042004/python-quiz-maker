@@ -1,5 +1,5 @@
-# PROJECT:
-This is a quiz maker project where everyone can make quizes and can also participate in that quiz.
+## PROJECT:
+This project is a **Quiz Maker and Participant Application** using Python and MySQL. It allows users to create quizzes and participate in them. The application features two main functionalities:
 ## Languages used:
 . Python   
 
